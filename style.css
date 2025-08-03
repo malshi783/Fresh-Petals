@@ -1,0 +1,101 @@
+@charset "utf-8";
+
+body {
+  padding: 40px;
+  background-color: #fff0f5;
+}
+
+body h1 {
+  color: #0B640E;
+}
+
+#carouselExampleIndicators1 {
+  background-color: #51CFA1;
+}
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.carousel-inner .carousel-item.active .d-block.mx-auto.img-fluid.rounded-circle {
+  background-color: #E1B8B9;
+}
+
+.carousel-inner .carousel-item img:hover {
+  box-shadow: 0 0 15px rgba(255, 105, 180, 0.5);
+  transition: 0.3s ease;
+}
+h1 {
+	text-align: center;
+}
+p {
+
+}
+body p {
+	color: #1C1C1C;
+}
+.carousel-item.active .carousel-caption p {
+	color: #F9F0F0;
+}
+body p {
+	text-align: center;
+}
+body h2 {
+	text-align: center;
+}
+.row .col-lg-3 h4 {
+	color: purple;
+}
+.row .col-lg-3 {
+	background-color: #1A1213;
+}
+.row .col-lg-3 {
+}
+.row .col-lg-3 {
+	color: #F3E9E9;
+}
+.row .col-lg-3 h4 {
+	color: #C6E166;
+}
+body h3 {
+	color: #0B640E;
+	text-align: center;
+}
+body form {
+	background-color: #2112CE;
+	color: #FAF3F3;
+}
+.row .col-lg-3 {
+}
+body form input {
+}
+body form input {
+}
+body form input {
+}
+body form {
+	border-color: #120101;
+}
+body form {
+	background-color: #F0C2F1;
+	color: #100001;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+body form input {
+}
+body footer {
+	background-color: #070000;
+	color: #FBF2F2;
+}
+body form br {
+}
+body footer {
+	color: #FAF8F8;
+}
+body footer p {
+	color: #F4E7E7;
+	background-color: #070000;
+	text-align: center;
+}
